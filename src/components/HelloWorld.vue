@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
 
-    time：
+    Time：
     <div>{{currentTime}}</div>
 
     counter:{{counter}}
